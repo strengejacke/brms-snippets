@@ -22,3 +22,5 @@ brm(DV ~ IV + (1 + IV | Cluster) + (1 + IV | Subject), data = ...)
 
 
 # related post: https://www.researchgate.net/post/Multilevel_modelling_in_R
+
+# see also: https://stats.stackexchange.com/a/228814/54740
